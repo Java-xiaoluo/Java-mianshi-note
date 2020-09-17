@@ -42,7 +42,7 @@ Java架构交流QQ群：**895538573**（备注一下GitHub，免得被认成打�
 | 6    | **Spring**         | [:mag:点击直达](https://github.com/Java-xiaoluo/Java-mianshi-note/blob/master/Java快速面试指南—Spring面试题.md) |
 | 7    | **Spring MVC**     | [:mag:点击直达](https://github.com/Java-xiaoluo/Java-mianshi-note/blob/master/Java快速面试指南—SpringMVC面试题.md) |
 | 8    | **Spring Boot**    | [:mag:点击直达](https://github.com/Java-xiaoluo/Java-mianshi-note/blob/master/Java快速面试指南—SpringBoot面试题.md) |
-| 9    | **Spring Cloud**   | [:mag:点击直达](https://github.com/Java-xiaoluo/Java-mianshi-note/blob/master/Java快速面试指南—Spring Cloud面试题.md) |
+| 9    | **Spring Cloud**   | [:mag:点击直达](https://github.com/Java-xiaoluo/Java-mianshi-note/blob/master/Java快速面试指南—SpringCloud面试题.md) |
 | 10   | **MyBatis**        | [:mag:点击直达](https://github.com/Java-xiaoluo/Java-mianshi-note/blob/master/Java快速面试指南—MyBatis面试题.md) |
 | 11   | **Redis**          | [:mag:点击直达](https://github.com/Java-xiaoluo/Java-mianshi-note/blob/master/Java快速面试指南—Redis面试题.md) |
 | 12   | **MySQL**          | [:mag:点击直达](https://github.com/Java-xiaoluo/Java-mianshi-note/blob/master/Java快速面试指南—MySQL面试题.md) |
